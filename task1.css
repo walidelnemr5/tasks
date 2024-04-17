@@ -1,0 +1,14 @@
+.x1{
+    background-color: red;
+    color: white;
+}
+.x2{
+    font-size: 20px;
+}
+.x3{
+    width: 100px;
+    height: 100px;
+}
+a:hover{
+    color: yellow;
+}
